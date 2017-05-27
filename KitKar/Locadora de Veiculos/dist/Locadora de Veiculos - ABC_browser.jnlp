@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Locadora de Veiculos - ABC_browser.jnlp">
+  <information>
+    <title>Locadora de Veiculos - ABC</title>
+    <vendor>Brauner</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.unipe.locadora.visao.Principal"  name="Locadora de Veiculos - ABC" >
+  </applet-desc>
+  <update check="always"/>
+</jnlp>
